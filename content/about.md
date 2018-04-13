@@ -5,6 +5,7 @@ description: " "
 linkTitle: https://yufree.github.io/daily/
 source: R Bloggers
 ---
+update 2018.4.13: This website is forked from Yumiao.
 
 **Daily R** is a light news/blog aggregator website for R. 
 
